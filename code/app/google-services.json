@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "320334795823",
+    "firebase_url": "https://achechni-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "achechni",
+    "storage_bucket": "achechni.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320334795823:android:ac2a76214d626c6e9f22da",
+        "android_client_info": {
+          "package_name": "com.kach.kachechni"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw_j44LfnOWNM_r1vtmLamnNl7R7XsnN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
